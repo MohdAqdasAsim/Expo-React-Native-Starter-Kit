@@ -1,6 +1,5 @@
 <a id="readme-top"></a>
 
-<br />
 <div align="center">
   <h3 align="center">Expo React Native Template with TypeScript & NativeWind</h3>
 </div>
@@ -24,9 +23,9 @@ This template provides a foundational setup for building a Expo React Native app
 
 #### **Key Features:**  
 
-✅ **Custom Tab Bar:** A fully customizable bottom tab navigation component for a better user experience.
-✅ **Navigation Setup:** Pre-configured React Navigation with a structured folder setup for seamless navigation management.
-✅ **Dark & Light Mode Support:** Integrated theme switching using context, ensuring a smooth transition between dark and light themes.
+✅ **Custom Tab Bar:** A fully customizable bottom tab navigation component for a better user experience.<br />
+✅ **Navigation Setup:** Pre-configured React Navigation with a structured folder setup for seamless navigation management.<br />
+✅ **Dark & Light Mode Support:** Integrated theme switching using context, ensuring a smooth transition between dark and light themes.<br />
 
 This template is designed to help developers kickstart their projects efficiently while maintaining scalability and best practices.
 
